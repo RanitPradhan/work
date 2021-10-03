@@ -3,7 +3,7 @@ OOP || Lab sheet 3 || Ranit Pradhan || AM.EN.U4ELC19028
 """
 
 class student(object):     
-    def __init__(self, name = "Ranit Pradhan", age = 20, fathers_name = "Biswajit Pradhan", phone_num = 9352618795, roll = 28):
+    def __init__(self, name = "Ranit Pradhan", age = 19, fathers_name = "Biswajit Pradhan", phone_num = 9352618795, roll = 28):
         self.info ={     
             "roll number": roll,
             "name" : name,
