@@ -6,8 +6,8 @@ class student(object):
     def __init__(self, name = "Ranit Pradhan", age = 19, fathers_name = "Biswajit Pradhan", phone_num = 9352618795, roll = 28):
         self.info ={     
             "roll number": roll,
-            "name" : name,
-            "age": age,
+            "Name" : name,
+            "Age": age,
             "father's name": fathers_name,
             "phone_number": phone_num
         }
